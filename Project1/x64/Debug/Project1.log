@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\이찬\서강\3-2\컴공실\4주차\Project1\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\Stack.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(16,3): error C3861: 'link': 식별자를 찾을 수 없습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(18,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'Node<T>'에 대한 참조를 확인하세요.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(16,3): error C2065: 'link': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(29,3): error C3861: 'first': 식별자를 찾을 수 없습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(46,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'LinkedList<T>'에 대한 참조를 확인하세요.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(29,3): error C2065: 'first': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(56,18): error C3861: 'first': 식별자를 찾을 수 없습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(57,2): error C3861: 'first': 식별자를 찾을 수 없습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(56,18): error C2065: 'first': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(57,2): error C2065: 'first': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(65,6): error C2065: 'first': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(68,21): error C2065: 'first': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(74,4): error C3878: 구문 오류: 예기치 않은 토큰 'else'이(가) 'statement_seq' 다음에 있습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(74,4): message : 다음 중 하나가 없습니다.  '}' ?
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(74,4): error C2760: 구문 오류: 여기서 'else'은(는) 예상치 못한 오류였습니다. 예상된 오류는 '}'였습니다
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(75,5): error C2065: 'first': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(75,13): error C2065: 'first': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(81,12): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(81,12): error C2065: 'current': 선언되지 않은 식별자입니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(82,2): error C2059: 구문 오류: 'delete'
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(83,14): error C2143: 구문 오류: ';'이(가) '--' 앞에 없습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(83,14): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(83,14): error C2059: 구문 오류: '--'
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(85,2): error C2059: 구문 오류: 'return'
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(86,1): error C2059: 구문 오류: '}'
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(86,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(90,29): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\이찬\서강\3-2\컴공실\4주차\Project1\LinkedList.h(90,29): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+C:\이찬\서강\3-2\컴공실\4주차\Project1\Stack.h(13,7): error C2760: 구문 오류: 여기서 ')'은(는) 예상치 못한 오류였습니다. 예상된 오류는 'condition'였습니다
+C:\이찬\서강\3-2\컴공실\4주차\Project1\Stack.h(20,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'Stack<T>'에 대한 참조를 확인하세요.
